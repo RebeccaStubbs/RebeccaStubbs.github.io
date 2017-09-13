@@ -2,8 +2,8 @@
 layout: post
 title: Test Post, Please Ignore!
 categories:
-  - resume
-  - other
+  - Resume
+  - Other
 ---
 
 Altering text to make sure changes have pushed through...
