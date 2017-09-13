@@ -13,11 +13,11 @@ twitter_username:
 default_img: https://avatars0.githubusercontent.com/u/7060498?v=4&s=460
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Rebecca Stubbs
+profile_img: https://avatars0.githubusercontent.com/u/7060498?v=4&s=460
+profile: Geospatial data scientist with experience in spatiotemporal modeling, public health, data analysis and visualization.
 social:
-  github: 
+  github: https://github.com/RebeccaStubbs/
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
