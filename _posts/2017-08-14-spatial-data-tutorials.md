@@ -2,8 +2,8 @@
 layout: post
 title: Tutorials on Spatial Data in R
 categories:
-  - Spatial Data
   - Tutorials
+  - MapSuite
 date: 2017-8-14
 image: https://raw.githubusercontent.com/RebeccaStubbs/rebeccastubbs.github.io/master/_posts/header_photos/hanging_clouds.JPG
 image-sm: https://raw.githubusercontent.com/RebeccaStubbs/rebeccastubbs.github.io/master/_posts/header_photos/hanging_clouds.JPG
