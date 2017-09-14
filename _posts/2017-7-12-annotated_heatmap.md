@@ -3,6 +3,7 @@ layout: post
 title: Making an Annotated Heatmap 
 categories:
   - Data-Visualization
+  - Tutorials
 date: 2017-7-12
 image: https://raw.githubusercontent.com/RebeccaStubbs/rebeccastubbs.github.io/master/_posts/header_photos/alpine_lake.JPG
 image-sm: https://raw.githubusercontent.com/RebeccaStubbs/rebeccastubbs.github.io/master/_posts/header_photos/alpine_lake.JPG
