@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Published Work
-date: 2018-3-17
+date: 2018-3-4
 categories:
   - Resume
 description: Explore the research I have been a part of, published in journals such as Nature and JAMA. 
@@ -13,7 +13,7 @@ image-sm: https://raw.githubusercontent.com/RebeccaStubbs/rebeccastubbs.github.i
 
 Aaron Osgood-Zimmerman, Anoushka I. Millear, **Rebecca W. Stubbs**, Chloe Shields, Brandon V. Pickering, Lucas Earl, Nicholas Graetz, Damaris K. Kinyoki, Sarah E. Ray, Samir Bhatt, Annie J. Browne, Roy Burstein, Ewan Cameron, Daniel C. Casey, Aniruddha Deshpande, Nancy Fullman, Peter W. Gething, Harry S. Gibson, Nathaniel J. Henry, Mario Herrero, L. Kendall Krause, Ian D. Letourneau, Aubrey J. Levine, Patrick Y. Liu, Joshua Longbottom, Benjamin K. Mayala, Jonathan F. Mosser, Abdisalan M. Noor, David M. Pigott, Ellen G. Piwoz, Puja Rao, Rahul Rawat, Robert C. Reiner, David L. Smith, Daniel J. Weiss, Kirsten E. Wiens, Ali H. Mokdad, Stephen S. Lim, Christopher J. L. Murray, Nicholas J. Kassebaum, Simon I. Hay. ***"Mapping child growth failure in Africa between 2000 and 2015", Nature.*** Published online 28 February, 2018.
 
-[View article full text here.](https://www.nature.com/articles/nature25760.pdf).
+[View article full text here.](https://www.nature.com/articles/nature25760.pdf)
 
 Nicholas Graetz, Joseph Friedman, Aaron Osgood-Zimmerman, Roy Burstein, Molly H. Biehl, Chloe Shields, Jonathan F. Mosser, Daniel C. Casey, Aniruddha Deshpande, Lucas Earl, Robert C. Reiner, Sarah E. Ray, Nancy Fullman, Aubrey J. Levine, **Rebecca W. Stubbs**, Benjamin K. Mayala, Joshua Longbottom, Annie J. Browne, Samir Bhatt, Daniel J. Weiss, Peter W. Gething, Ali H. Mokdad, Stephen S. Lim, Christopher J. L. Murray, Emmanuela Gakidou, Simon I. Hay. ***"Mapping local variation in educational attainment across Africa", Nature.*** Published online 28 February, 2018.
 
